@@ -24,4 +24,3 @@ Regardless, the massive number of reviews creates a problem for customers becaus
 
   4. Classification.
 
--
